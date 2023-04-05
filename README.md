@@ -1,6 +1,5 @@
-## Olá, eu sou Luiz Paulo🙂 
--  
-- 💻 Desenvolvedor Java Web
+## Olá, eu sou Luiz Paulo🙂  
+- 💻 Curando JavaScirpt
 - 💻 Sempre estudo JAVA & PHP PYTHON. 
 - 💻 Analise de desenvolvimento e sistema - Concluiodo em 2022. 
 - 📚 Cursando - Inglês: Curso Completo do Zero à Fluência
